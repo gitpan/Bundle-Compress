@@ -3,7 +3,7 @@ package Bundle::Compress;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 
@@ -215,7 +215,7 @@ Crypt::RSA
 
 Data::Buffer
 
-Class:ErrorHandler
+Class::ErrorHandler
 
 Convert::ASN1
 
