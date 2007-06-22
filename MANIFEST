@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bundle-Compress.t
+lib/Bundle/Compress.pm
+META.yml                                 Module meta-data (added by MakeMaker)
